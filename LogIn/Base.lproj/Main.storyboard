@@ -50,11 +50,12 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="-78" y="376"/>
         </scene>
-        <!--View Controller-->
+        <!--My Membership-->
         <scene sceneID="eKy-OW-P4h">
             <objects>
-                <viewController id="GrY-cy-AOI" sceneMemberID="viewController">
+                <viewController id="GrY-cy-AOI" customClass="MyMembership" customModule="LogIn" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Bcy-zQ-Zca"/>
                         <viewControllerLayoutGuide type="bottom" id="bNs-Gl-4pU"/>
