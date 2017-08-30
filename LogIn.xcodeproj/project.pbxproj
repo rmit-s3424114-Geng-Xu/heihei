@@ -13,6 +13,7 @@
 		E86BAD3E1F56D6D7006203E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E86BAD3D1F56D6D7006203E4 /* Assets.xcassets */; };
 		E86BAD411F56D6D7006203E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E86BAD3F1F56D6D7006203E4 /* LaunchScreen.storyboard */; };
 		E86BAD491F56D6F6006203E4 /* HomeBar@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E86BAD481F56D6F6006203E4 /* HomeBar@3x.png */; };
+		E8C0ABA71F56DBCD00143885 /* MyMembership的副本.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8C0ABA61F56DBCD00143885 /* MyMembership的副本.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E86BAD401F56D6D7006203E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E86BAD421F56D6D7006203E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E86BAD481F56D6F6006203E4 /* HomeBar@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "HomeBar@3x.png"; sourceTree = "<group>"; };
+		E8C0ABA61F56DBCD00143885 /* MyMembership的副本.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "MyMembership的副本.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 		E86BAD351F56D6D7006203E4 /* LogIn */ = {
 			isa = PBXGroup;
 			children = (
+				E8C0ABA61F56DBCD00143885 /* MyMembership的副本.swift */,
 				E86BAD361F56D6D7006203E4 /* AppDelegate.swift */,
 				E86BAD381F56D6D7006203E4 /* ViewController.swift */,
 				E86BAD3A1F56D6D7006203E4 /* Main.storyboard */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E86BAD391F56D6D7006203E4 /* ViewController.swift in Sources */,
+				E8C0ABA71F56DBCD00143885 /* MyMembership的副本.swift in Sources */,
 				E86BAD371F56D6D7006203E4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -305,6 +309,7 @@
 				E86BAD471F56D6D7006203E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
